@@ -1,0 +1,1 @@
+solana program deploy /Users/lap02139/Documents/Myjob/anchor-escrow/target/deploy/anchor_escrow.so
